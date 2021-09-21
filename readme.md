@@ -9,4 +9,4 @@ This is an application I did while still learning laravel and I was proud that I
 3. run php artisan serve
 4. Visit http://127.0.0.1:8000
 
-
+When refreshing the colors change randomly.
